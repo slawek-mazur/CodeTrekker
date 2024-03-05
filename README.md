@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-Java-red.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-3da63a.svg)](./LICENSE.md)&nbsp;
 ![Update](https://img.shields.io/badge/update-weekly-e1e8f6.svg)&nbsp;
-![Progress](https://img.shields.io/badge/progress-1%20%2F%203049-f4b823.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-2%20%2F%203049-f4b823.svg)&nbsp;
 
 🚀 Welcome to my Repository where I share my progress through algorithms! 🚀
 
@@ -42,6 +42,7 @@ confident problem-solvers!
 | #  | Difficulty | Problem                                                                             | Solution                                                                       | Time   | Space  | Note | 
 |----|------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------|--------|------|
 | 88 | Easy       | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](./src/test/java/io/stricte/codetrekker/array/MergeSortedArrayTest.java) | _O(n)_ | _O(1)_ |      |
+| 27 | Easy       | [Remove Element](https://leetcode.com/problems/remove-element/description)          | [Java](./src/test/java/io/stricte/codetrekker/array/RemoveElementTest.java)    | _O(n)_ | _O(1)_ |      |
 
 <br/>
 <div align="right">
