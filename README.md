@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-Java-red.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-3da63a.svg)](./LICENSE.md)&nbsp;
 ![Update](https://img.shields.io/badge/update-weekly-e1e8f6.svg)&nbsp;
-![Progress](https://img.shields.io/badge/progress-4%20%2F%203049-f4b823.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-7%20%2F%203049-f4b823.svg)&nbsp;
 
 🚀 Welcome to my Repository where I share my progress through algorithms! 🚀
 
