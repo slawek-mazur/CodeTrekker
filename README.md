@@ -50,6 +50,18 @@ confident problem-solvers!
 </div>
 <br/>
 
+## Lists
+
+| # | Difficulty | Problem                                                                       | Solution                                                                   | Time   | Space  | Note | 
+|---|------------|-------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------|--------|------|
+| 2 | Medium     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Java](./src/test/java/io/stricte/codetrekker/list/AddTwoNumbersTest.java) | _O(n)_ | _O(1)_ |      |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⏫&nbsp;&nbsp;Back to Top</a></b>
+</div>
+<br/>
+
 ## Strings
 
 | #    | Difficulty | Problem                                                                                                   | Solution                                                                                 | Time   | Space  | Note | 
