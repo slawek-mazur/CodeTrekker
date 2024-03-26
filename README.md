@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-Java-red.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-3da63a.svg)](./LICENSE.md)&nbsp;
 ![Update](https://img.shields.io/badge/update-weekly-e1e8f6.svg)&nbsp;
-![Progress](https://img.shields.io/badge/progress-7%20%2F%203049-f4b823.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-8%20%2F%203049-f4b823.svg)&nbsp;
 
 🚀 Welcome to my Repository where I share my progress through algorithms! 🚀
 
@@ -52,9 +52,10 @@ confident problem-solvers!
 
 ## Lists
 
-| # | Difficulty | Problem                                                                       | Solution                                                                   | Time   | Space  | Note | 
-|---|------------|-------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------|--------|------|
-| 2 | Medium     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Java](./src/test/java/io/stricte/codetrekker/list/AddTwoNumbersTest.java) | _O(n)_ | _O(1)_ |      |
+| #   | Difficulty | Problem                                                                           | Solution                                                                     | Time   | Space  | Note | 
+|-----|------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------|--------|------|
+| 2   | Medium     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)     | [Java](./src/test/java/io/stricte/codetrekker/list/AddTwoNumbersTest.java)   | _O(n)_ | _O(1)_ |      |
+| 141 | Easy       | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Java](./src/test/java/io/stricte/codetrekker/list/LinkedListCycleTest.java) | _O(n)_ | _O(1)_ |      |
 
 <br/>
 <div align="right">
