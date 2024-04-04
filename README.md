@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-Java-red.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-3da63a.svg)](./LICENSE.md)&nbsp;
 ![Update](https://img.shields.io/badge/update-weekly-e1e8f6.svg)&nbsp;
-![Progress](https://img.shields.io/badge/progress-9%20%2F%203049-f4b823.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-11%20%2F%203049-f4b823.svg)&nbsp;
 
 🚀 Welcome to my Repository where I share my progress through algorithms! 🚀
 
@@ -55,6 +55,8 @@ confident problem-solvers!
 | #   | Difficulty | Problem                                                                                                 | Solution                                                                                   | Time   | Space  | Note | 
 |-----|------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------|--------|------|
 | 128 | Medium     | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Java](./src/test/java/io/stricte/codetrekker/hashmap/LongestConsecutiveSequenceTest.java) | _O(n)_ | _O(n)_ |      |
+| 383 | Easy       | [Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                   | [Java](./src/test/java/io/stricte/codetrekker/hashmap/RansomNoteTest.java)                 | _O(n)_ | _O(1)_ |      |
+| 205 | Easy       | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)                     | [Java](./src/test/java/io/stricte/codetrekker/hashmap/IsomorphicStringsTest.java)          | _O(n)_ | _O(1)_ |      |
 
 <br/>
 <div align="right">

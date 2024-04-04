@@ -1,5 +1,6 @@
 package io.stricte.codetrekker.hashmap;
 
+// https://leetcode.com/problems/ransom-note/
 class RansomNote {
 
   boolean canConstruct(String ransomNote, String magazine) {
